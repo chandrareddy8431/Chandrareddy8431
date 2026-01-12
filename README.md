@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio
+#  Data Analyst Portfolio
 
 Hi 👋 I'm **Chandra Reddy**, a **Data Analyst Fresher** with hands-on experience in data analysis, dashboarding, and business reporting.
 
