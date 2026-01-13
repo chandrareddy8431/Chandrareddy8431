@@ -4,7 +4,8 @@
 This project analyzes **Blinkit retail sales data** using Power BI to track key business KPIs and uncover sales insights across outlets, item types, and locations.
 
 ## 📊 Dashboard Preview
-![Blinkit Sales Dashboard](blinkit_dashboard.png)
+![Blinkit Sales Dashboard](<img width="828" height="479" alt="Screenshot 2025-06-13 183205" src="https://github.com/user-attachments/assets/a56b106a-9b2d-44ff-a259-5f4fd004ceb2" />
+)
 
 ## 📈 Key KPIs
 - 💰 **Total Sales:** $1.20M  
